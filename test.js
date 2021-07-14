@@ -1,4 +1,3 @@
-```bash
 const assert = require('assert');
 describe('Simple Math Test', () => {
  it('should return 2', () => {
@@ -8,4 +7,3 @@ describe('Simple Math Test', () => {
         assert.equal(3 * 3, 9);
     });
 });
-```
